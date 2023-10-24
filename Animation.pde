@@ -1,3 +1,7 @@
+// Clawcade
+// Creates an animation from multiple images
+// From https://processing.org/reference/libraries/#animation
+
 class Animation {
   PImage[] images;
   int imageCount;
