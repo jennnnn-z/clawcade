@@ -1,3 +1,6 @@
+// Clawcade
+// This is the big brains of the claw machine that powers everything
+
 import gifAnimation.*;
 
 // claw movement source: 
