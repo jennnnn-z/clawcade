@@ -1,3 +1,8 @@
+// Clawcade
+// pins 2,3,4,5,6 are being used for the buttons
+// pin 7 is included but unused in the code
+// pins 8,9,10,11 are used for the LED bulbs
+
 const int BUT1PIN = 2;
 const int BUT2PIN = 3;
 const int BUT3PIN = 4;
